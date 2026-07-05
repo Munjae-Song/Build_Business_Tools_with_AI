@@ -1,0 +1,9 @@
+issue_id,issue_at,shop_code,order_id,part_no,issued_qty,issued_by,bin,issue_status
+ISS-S-001,2026-03-04 09:30,AUR,RO-AUR-1001,PN-BPAD-013,1,marcos.p,B-A12,posted
+ISS-S-002,2026-03-04 09:34,AUR,RO-AUR-1001,PN-ROTR-021,2,marcos.p,B-A14,posted
+ISS-S-003,2026-03-04 10:05,AUR,RO-AUR-1002,PN-BPAD-013,0,marcos.p,B-A12,posted_zero
+ISS-S-004,2026-03-05 11:15,RIV,,PN-COOL-110,1,alexa.m,C-C07,orphan_blank_order
+ISS-S-005,2026-03-05 13:50,NOR,RO-NOR-1004,PN-OILF-205,1,devin.k,F-D03,posted
+ISS-S-006,2026-03-05 16:05,NOR,RO-NOR-1004,PN-AIRF-207,1,devin.k,F-D04,posted_after_release
+ISS-S-007,2026-03-06 09:10,RIV,RO-RIV-1005,PN-STR-320,0,alexa.m,E-E09,posted_zero
+ISS-S-008,2026-03-06 16:05,AUR,RO-AUR-1006,PN-BATT-500,1,marcos.p,E-E02,open_order_issue

@@ -1,0 +1,17 @@
+part_no,part_desc,category,unit_cost,criticality,uom
+PN-BPAD-013,Front brake pad set,Brake,86.50,HIGH,set
+PN-ROTR-021,Brake rotor,Brake,58.00,HIGH,each
+PN-CALP-044,Brake caliper,Brake,132.00,HIGH,each
+PN-OILF-205,Oil filter,Filters,9.80,MEDIUM,each
+PN-AIRF-207,Engine air filter,Filters,18.25,MEDIUM,each
+PN-CABF-210,Cabin air filter,Filters,24.50,MEDIUM,each
+PN-COOL-110,Radiator hose,Cooling,42.75,HIGH,each
+PN-THER-118,Thermostat,Cooling,37.40,HIGH,each
+PN-STR-320,Starter motor,Electrical,229.00,HIGH,each
+PN-ALT-330,Alternator,Electrical,215.00,HIGH,each
+PN-BATT-500,12V battery,Electrical,149.00,HIGH,each
+PN-SPRK-410,Spark plug,Ignition,11.25,MEDIUM,each
+PN-WIPR-015,Wiper blade set,Body,28.00,LOW,set
+PN-BELT-155,Serpentine belt,Engine,39.75,HIGH,each
+PN-SENS-610,Oxygen sensor,Emissions,88.00,MEDIUM,each
+PN-TIRE-701,Tire pressure sensor,Tires,52.00,MEDIUM,each

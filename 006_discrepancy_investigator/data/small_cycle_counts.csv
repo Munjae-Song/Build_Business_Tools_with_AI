@@ -1,0 +1,8 @@
+count_id,count_date,shop_code,part_no,system_qty,physical_qty,counted_by,count_reason
+CC-S-001,2026-03-07,AUR,PN-BPAD-013,12,10,shauna.l,weekly_cycle
+CC-S-002,2026-03-07,AUR,PN-ROTR-021,8,8,shauna.l,weekly_cycle
+CC-S-003,2026-03-07,RIV,PN-COOL-110,6,5,mateo.c,weekly_cycle
+CC-S-004,2026-03-07,NOR,PN-OILF-205,44,44,ivy.h,weekly_cycle
+CC-S-005,2026-03-07,NOR,PN-AIRF-207,14,13,ivy.h,weekly_cycle
+CC-S-006,2026-03-07,RIV,PN-STR-320,3,2,mateo.c,weekly_cycle
+CC-S-007,2026-03-07,AUR,PN-BATT-500,5,5,shauna.l,weekly_cycle

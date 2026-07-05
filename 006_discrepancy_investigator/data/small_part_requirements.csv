@@ -1,0 +1,9 @@
+requirement_id,order_id,shop_code,part_no,required_qty,requirement_status,source
+REQ-S-001,RO-AUR-1001,AUR,PN-BPAD-013,1,completed,estimate_card
+REQ-S-002,RO-AUR-1001,AUR,PN-ROTR-021,2,completed,estimate_card
+REQ-S-003,RO-AUR-1002,AUR,PN-BPAD-013,1,completed,estimate_card
+REQ-S-004,RO-RIV-1003,RIV,PN-COOL-110,1,completed,diagnostic_card
+REQ-S-005,RO-NOR-1004,NOR,PN-OILF-205,1,completed,estimate_card
+REQ-S-006,RO-NOR-1004,NOR,PN-AIRF-207,1,completed,estimate_card
+REQ-S-007,RO-RIV-1005,RIV,PN-STR-320,1,completed,estimate_card
+REQ-S-008,RO-AUR-1006,AUR,PN-BATT-500,1,pending,estimate_card

@@ -1,0 +1,33 @@
+order_id,shop_code,shop_name,vehicle_id,opened_at,service_line,status,service_advisor
+RO-L-2001,AUR,Aurora CO,SUV-4102,2026-03-01 08:05,Front brake service,released,nina.park
+RO-L-2002,AUR,Aurora CO,SED-5124,2026-03-01 11:15,Oil and filters,released,nina.park
+RO-L-2003,RIV,Riverside CA,VAN-2230,2026-03-02 08:20,Cooling leak repair,released,omar.lee
+RO-L-2004,NOR,Norfolk VA,TRK-7801,2026-03-02 12:10,Starter replacement,released,jules.r
+RO-L-2005,MPL,Minneapolis MN,SUV-1907,2026-03-03 07:55,Battery replacement,released,mae.chan
+RO-L-2006,ALB,Albany NY,SED-4410,2026-03-03 13:05,Spark plug tune-up,released,tara.s
+RO-L-2007,FRS,Fresno CA,TRK-3318,2026-03-04 08:10,Brake service,released,brent.k
+RO-L-2008,AUR,Aurora CO,SUV-9022,2026-03-04 12:35,Front brake service,released,nina.park
+RO-L-2009,RIV,Riverside CA,SED-6404,2026-03-05 08:45,Cooling system repair,released,omar.lee
+RO-L-2010,NOR,Norfolk VA,VAN-6188,2026-03-05 11:30,Oil and cabin filter,released,jules.r
+RO-L-2011,MPL,Minneapolis MN,TRK-5530,2026-03-06 08:15,Alternator replacement,released,mae.chan
+RO-L-2012,ALB,Albany NY,SUV-8815,2026-03-06 09:05,Serpentine belt replacement,released,tara.s
+RO-L-2013,FRS,Fresno CA,SED-1190,2026-03-07 08:40,Tire pressure sensor replacement,released,brent.k
+RO-L-2014,AUR,Aurora CO,TRK-4329,2026-03-07 13:00,Brake inspection with rotors,released,nina.park
+RO-L-2015,RIV,Riverside CA,SUV-3004,2026-03-08 09:15,Wiper and air filter,released,omar.lee
+RO-L-2016,NOR,Norfolk VA,SED-2710,2026-03-08 12:30,Brake pad service,released,jules.r
+RO-L-2017,MPL,Minneapolis MN,VAN-7203,2026-03-09 08:25,Thermostat replacement,released,mae.chan
+RO-L-2018,ALB,Albany NY,TRK-5038,2026-03-09 09:10,Oil service,released,tara.s
+RO-L-2019,FRS,Fresno CA,SUV-6742,2026-03-10 08:05,Starter diagnosis,released,brent.k
+RO-L-2020,AUR,Aurora CO,SED-9011,2026-03-10 13:20,Spark plug tune-up,released,nina.park
+RO-L-2021,RIV,Riverside CA,TRK-2442,2026-03-11 10:30,Brake caliper replacement,released,omar.lee
+RO-L-2022,NOR,Norfolk VA,SUV-3851,2026-03-11 08:50,Battery replacement,released,jules.r
+RO-L-2023,MPL,Minneapolis MN,SED-7005,2026-03-12 09:00,Emissions sensor,released,mae.chan
+RO-L-2024,ALB,Albany NY,VAN-2244,2026-03-12 11:25,Cooling hose,released,tara.s
+RO-L-2025,FRS,Fresno CA,TRK-8620,2026-03-13 08:15,Brake pad service,released,brent.k
+RO-L-2026,AUR,Aurora CO,SUV-1841,2026-03-13 14:20,Oil service,open,nina.park
+RO-L-2027,RIV,Riverside CA,SED-5162,2026-03-14 08:10,Alternator replacement,canceled,omar.lee
+RO-L-2028,NOR,Norfolk VA,TRK-7194,2026-03-14 11:05,Brake pad service,released,jules.r
+RO-L-2029,MPL,Minneapolis MN,SUV-2691,2026-03-14 08:30,Wiper replacement,released,mae.chan
+RO-L-2030,ALB,Albany NY,SED-9033,2026-03-15 09:05,Tire pressure sensor replacement,released,tara.s
+RO-L-2031,FRS,Fresno CA,VAN-3774,2026-03-15 09:45,Radiator hose,released,brent.k
+RO-L-2032,AUR,Aurora CO,TRK-6044,2026-03-16 10:20,Brake pad service,released,nina.park
